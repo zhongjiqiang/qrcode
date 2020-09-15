@@ -10,9 +10,9 @@
 -----------------
 ```
 总共生产二维码3个
-17.jpg:	https://reservation.starbucks.com.cn/yb/promo?couponId=10020870011409639792
-23.jpg:	https://reservation.starbucks.com.cn/yb/promo?couponId=10020570011107530001
-25.jpg:	https://reservation.starbucks.com.cn/yb/promo?couponId=10020320011505346151
+17.jpg:	https://reservation.starbucks.com.cn/yb/promo?couponId=10020870011XXXX
+23.jpg:	https://reservation.starbucks.com.cn/yb/promo?couponId=10020570011XXXX
+25.jpg:	https://reservation.starbucks.com.cn/yb/promo?couponId=10020320011XXXX
 ```
 
 1.3 package util ImageUtil类提供了图片的裁剪功能,解决由于二维码位置不在中间、占比太小，清晰度较低等问题
